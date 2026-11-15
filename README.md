@@ -23,35 +23,6 @@ An interactive, end-to-end Machine Learning project transforming flower measurem
 
 ---
 
-## 🌐 Live Demo & GitHub Repository
-
-<div align="center">
-
-### 🌸 Explore IrisVision AI
-
-**Experience Intelligent Machine Learning, Interactive Analytics & Explainable AI.**
-
-Explore the complete IrisVision AI project, including interactive data visualizations, live flower predictions, ML model benchmarking, and intelligent data analysis.
-
-<br>
-
-[![GitHub Repository](https://img.shields.io/badge/GitHub-View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanbhowm25308/IrisVision-AI)
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Coming_Soon-009688?style=for-the-badge&logo=streamlit&logoColor=white)](https://github.com/rohanbhowm25308/IrisVision-AI)
-
-<br>
-
-**💻 GitHub Repository:**  
-https://github.com/rohanbhowm25308/IrisVision-AI
-
-**🚀 Live Demo:** Coming Soon
-
-*The complete Jupyter Notebook, dataset, and Machine Learning analytics report are available in the GitHub repository.*
-
-</div>
-
----
-
 
 ## 🌟 About IrisVision AI
 
@@ -70,6 +41,33 @@ Using four numerical flower measurements, the system learns patterns, predicts s
 >  **Project Vision:** Machine Learning should not just predict outcomes — it should help users explore, understand, compare, and explain them.
 
 ---
+
+
+---
+
+## 🌐 GitHub Repository
+
+<div align="center">
+
+### 🌸 Explore IrisVision AI
+
+**Experience Intelligent Machine Learning, Interactive Analytics & Explainable AI.**
+
+Explore the complete IrisVision AI project, including interactive data visualizations, live flower predictions, ML model benchmarking, and intelligent data analysis.
+
+<br>
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanbhowm25308/IrisVision-AI)
+
+<br>
+
+**💻 GitHub Repository:**  
+https://github.com/rohanbhowm25308/IrisVision-AI
+
+</div>
+
+---
+
 
 ## 🚀 Key Features
 
