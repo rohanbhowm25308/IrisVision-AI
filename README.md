@@ -23,7 +23,6 @@ An interactive, end-to-end Machine Learning project transforming flower measurem
 
 ---
 
-
 ## 🌟 About IrisVision AI
 
 **IrisVision AI** is an intelligent, interactive Machine Learning classification and analytics system developed as part of my **Data Science and Machine Learning Internship**.
@@ -43,8 +42,6 @@ Using four numerical flower measurements, the system learns patterns, predicts s
 ---
 
 ## 🌐 GitHub Repository
-
-<div align="center">
 
 ### 🌸 Explore IrisVision AI
 
