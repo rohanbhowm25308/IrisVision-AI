@@ -23,6 +23,36 @@ An interactive, end-to-end Machine Learning project transforming flower measurem
 
 ---
 
+## 🌐 Live Demo & GitHub Repository
+
+<div align="center">
+
+### 🌸 Explore IrisVision AI
+
+**Experience Intelligent Machine Learning, Interactive Analytics & Explainable AI.**
+
+Explore the complete IrisVision AI project, including interactive data visualizations, live flower predictions, ML model benchmarking, and intelligent data analysis.
+
+<br>
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanbhowm25308/IrisVision-AI)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Coming_Soon-009688?style=for-the-badge&logo=streamlit&logoColor=white)](https://github.com/rohanbhowm25308/IrisVision-AI)
+
+<br>
+
+**💻 GitHub Repository:**  
+https://github.com/rohanbhowm25308/IrisVision-AI
+
+**🚀 Live Demo:** Coming Soon
+
+*The complete Jupyter Notebook, dataset, and Machine Learning analytics report are available in the GitHub repository.*
+
+</div>
+
+---
+
+
 ## 🌟 About IrisVision AI
 
 **IrisVision AI** is an intelligent, interactive Machine Learning classification and analytics system developed as part of my **Data Science and Machine Learning Internship**.
