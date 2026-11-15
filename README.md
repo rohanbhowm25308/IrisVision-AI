@@ -50,7 +50,6 @@ Using four numerical flower measurements, the system learns patterns, predicts s
 
 Explore the complete IrisVision AI project, including interactive data visualizations, live flower predictions, ML model benchmarking, and intelligent data analysis.
 
-<br>
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanbhowm25308/IrisVision-AI)
 
