@@ -42,9 +42,6 @@ Using four numerical flower measurements, the system learns patterns, predicts s
 
 ---
 
-
----
-
 ## 🌐 GitHub Repository
 
 <div align="center">
@@ -60,9 +57,6 @@ Explore the complete IrisVision AI project, including interactive data visualiza
 [![GitHub Repository](https://img.shields.io/badge/GitHub-View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanbhowm25308/IrisVision-AI)
 
 <br>
-
-**💻 GitHub Repository:**  
-https://github.com/rohanbhowm25308/IrisVision-AI
 
 </div>
 
